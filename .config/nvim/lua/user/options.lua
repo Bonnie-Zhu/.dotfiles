@@ -15,5 +15,5 @@ vim.cmd("set scrolloff=6")
 vim.cmd("set wrap!")
 vim.cmd("set belloff=all")
 
-vim.cmd("set listchars=space:·,eol:↩")
+vim.cmd("set listchars=space:·,eol:")
 vim.cmd("set list")
