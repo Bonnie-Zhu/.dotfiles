@@ -10,4 +10,4 @@ gh repo clone dotfiles
 sudo rm -r .gitconfig .bashrc .config
 cd dotfiles
 stow .
-bash setup.sh
+bash setup_scripts.sh
